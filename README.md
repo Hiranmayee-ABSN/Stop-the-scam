@@ -64,7 +64,7 @@ streamlit run app.py
 ## 📽️ Video Presentation
 
 Watch our full walkthrough demo:
-📺 **[Video Link – YouTube / Google Drive](https://your-link.com)**
+📺 [Video Link – https://drive.google.com/uc?id=1BaP3VEOm86I5To7R2XApEdL1wC_utKSt&export=download}
 
 
 ## 🙋 About the Developer
